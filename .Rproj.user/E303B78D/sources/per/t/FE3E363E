@@ -1,0 +1,26 @@
+{
+    "id": "FE3E363E",
+    "path": "~/temp/lucca/r-scripts/script-cov.r",
+    "project_path": "script-cov.r",
+    "type": "r_source",
+    "hash": "3351298746",
+    "contents": "",
+    "dirty": false,
+    "created": 1678847527017.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,19",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1678847556,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678847556071,
+    "read_only": false,
+    "read_only_alternatives": []
+}
